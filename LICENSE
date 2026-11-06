@@ -1,0 +1,24 @@
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 2.1, February 1999
+
+Copyright (C) 1991, 1999 Free Software Foundation, Inc.
+59 Temple Place, Suite 330, Boston, MA  02110-1335  USA
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+[This is the first released version of the LGPL.  It is numbered 2.1
+because the GPL working group decided to create a new branch of GPL
+to cover libraries, and this is the first release in that branch,
+hence the 2.1, rather than 2.0.]
+
+Preamble
+
+The licenses for most software are designed to take away your
+freedom to share and change it.  By contrast, the GNU General Public
+Licenses are intended to guarantee your freedom to share and change
+free software--to make sure the software is free for all its users.
+
+This license applies to most of the Free Software Foundation's
+software and to any other program whose authors commit to using it.
+You can use it to your programs too.  [Details omitted for brevity]
